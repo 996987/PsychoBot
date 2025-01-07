@@ -48,7 +48,7 @@ Before running PsychoBot, make sure you have the following installed:
    After installing the dependencies, run the following command to launch the chatbot:
 
    ```bash
-   streamlit run app.py
+   Home.py
    ```
 
 2. **Interacting with the Chatbot**:
